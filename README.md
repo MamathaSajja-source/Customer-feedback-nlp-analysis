@@ -20,5 +20,3 @@ This project analyzes customer reviews and converts them into business insights 
 - Python
 - NLP
 - Pandas
-
-## Files
